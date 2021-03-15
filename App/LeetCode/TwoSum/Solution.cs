@@ -23,6 +23,7 @@ namespace App.TwoSum
             }
             
             return new int[] { };
+            
             // var numAndIndex = new Dictionary<int, int>();
             // for(int i = 0; i < nums.Length; i++)
             // {
